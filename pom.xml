@@ -37,7 +37,7 @@
 						<connectedAppClientSecret>${anypoint.platform.esocrm.connectedapp.client_secret}</connectedAppClientSecret>
 						<connectedAppGrantType>client_credentials</connectedAppGrantType>
 		  				<applicationName>demo-mule-app-cicd</applicationName>
-		  				<environment>DESIGN</environment>
+		  				<environment>Sandbox</environment>
 		  				<workerType>MICRO</workerType>
 		  				<region>eu-central-1</region>
 		  				<workers>1</workers>
