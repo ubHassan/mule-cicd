@@ -31,7 +31,7 @@
 				<extensions>true</extensions>
 				<configuration>
   					<cloudHubDeployment>
-		  				<uri>https://anypoint.mulesoft.com</uri>
+		  				<uri>https://eu1.anypoint.mulesoft.com</uri>
 		  				<muleVersion>4.3.0</muleVersion>
 		  				<connectedAppClientId>${anypoint.platform.esocrm.connectedapp.client_id}</connectedAppClientId>
 						<connectedAppClientSecret>${anypoint.platform.esocrm.connectedapp.client_secret}</connectedAppClientSecret>
